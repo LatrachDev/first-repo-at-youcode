@@ -19,6 +19,6 @@ int main()
     revx = units*1000 + tens*100 + hundreds*10 + thousands;
 
     printf("l'ordre inverse de %d est %d\n", x, revx);
-
+    
     return 0;
 }
